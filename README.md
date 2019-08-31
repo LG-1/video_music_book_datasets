@@ -40,5 +40,7 @@ label: 十宗罪/book
 
 # Copyrights & Cite
 LG: ourantech@163.com
+
 Blog: https://www.ourantech.club/2019/08/31/029_视频音乐书籍标注数据/
+
 Github: https://github.com/LG-1/video_music_book_datasets
