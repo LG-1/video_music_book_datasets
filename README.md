@@ -37,7 +37,7 @@ label: 十宗罪/book
 
 最终提供的数据集转换成了标准的BIO标注格式,欢迎尝试使用.
 
-
+更多NLP细分数据集:https://github.com/SimmerChan/corpus
 
 # Copyrights & Cite
 LG: ourantech@163.com
